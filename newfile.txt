@@ -1,6 +1,0 @@
-created in gitbranch1
-<<<<<<< HEAD
-
-
-=======
->>>>>>> gitbranch1
