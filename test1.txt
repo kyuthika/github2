@@ -1,2 +1,6 @@
 created in gitbranch1
+<<<<<<< HEAD
 created test1.txt 
+=======
+created test1.txt 
+>>>>>>> gitbranch1
